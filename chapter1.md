@@ -1,4 +1,4 @@
-# Ethereum 
+# Ethereum
 
 #### **Ethereum**
 
@@ -12,7 +12,7 @@ Metamask is a Google plugin that allows us to view decentralized apps right on o
 
 ![](/assets/Chrome Download.jpg)
 
-Now that we’ve got Chrome installed. Let’s get the MetaMask Extension. go to the link below to download MetaMask. 
+Now that we’ve got Chrome installed. Let’s get the MetaMask Extension. go to the link below to download MetaMask.
 
 [https://metamask.io](https://metamask.io)
 
@@ -22,17 +22,13 @@ Once MetaMask is installed you should have this icon in the corner of your Chrom
 
 ![](/assets/MetaMask Icon.jpg)
 
-
-
 Now click that MetaMask Icon to open it. First you will see the privacy notice. Click the “Accept” button.
 
 ![](/assets/privacy notice.jpg)
 
-
-
 Next you will see the “Terms of Use”. You must scroll to the bottom of this page before the “Accept” button will become active. After scrolling to the bottom, click “Accept”.
 
-The legal stuff is complete. 
+The legal stuff is complete.
 
 Now you will be prompted to set up an account. Enter a password to create your new account.
 
@@ -42,15 +38,13 @@ Now your wallet \(vault\) has been created. MetaMask gives you 12 “seed words�
 
 ![](/assets/seed words.jpg)
 
-
-
-This is your new MetaMask Wallet. Currently it is empty. 
+This is your new MetaMask Wallet. Currently it is empty.
 
 ![](/assets/Open.jpg)
 
 Let’s explore MetaMask. If you click on the Account icon you’ll see this drop-down menu.
 
-![](/assets/Account icon.jpg)This is where you can create new Accounts or import other accounts you may wish to keep in your MetaMask Wallet. It's quite common among cryptocurrency traders to have multiple wallets. Some create multiple wallets to split their cryptocurrency holdings into smaller amounts as another layer of protection. Others create multiple wallets for organization of many different cryptocurrencies. Click "Account 1" on the menu to close this drop down. Hover your mouse above the word "Account One" on the main page. The word "edit" will appear. 
+![](/assets/Account icon.jpg)This is where you can create new Accounts or import other accounts you may wish to keep in your MetaMask Wallet. It's quite common among cryptocurrency traders to have multiple wallets. Some create multiple wallets to split their cryptocurrency holdings into smaller amounts as another layer of protection. Others create multiple wallets for organization of many different cryptocurrencies. Click "Account 1" on the menu to close this drop down. Hover your mouse above the word "Account One" on the main page. The word "edit" will appear.
 
 ![](/assets/edit account name.jpg)
 
@@ -63,6 +57,4 @@ Let's change the name of our account. I'll call mine "My Account" but feel free 
 
 
 hello
-
-
 
