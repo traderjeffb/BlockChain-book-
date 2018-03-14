@@ -15,7 +15,8 @@
 * Transferring ETH and other cryptocurrencies
 * Intro to Smart Contracts
 * Etherscan and other tools
-* Introduction to Remix -Ethereum's online IDE 
+* Intro to Remix -Ethereum's online IDE 
 * Mining Cryptocurrency - Just say no
+* Geth -become a network node
 * Where to from here?
 

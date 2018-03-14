@@ -52,5 +52,15 @@ Let's change the name of our account. I'll call mine "My Account" but feel free 
 
 ![](/assets/renamed account.jpg)
 
+Now click on the words "Main Network". Here you will see a list of the possible Networks that we can connect our MetaMask wallet to. In this course we will be connecting to one of the test networks in order to practice with Ethereum for no cost. If we were on the Main Ethereum Network each and every transaction would have a fee associated with it. 
+
+![](/assets/Network list.jpg)
+
+Now click on the 3 dots. \(See below\) The first choice is to "View account on Etherscan" we'll come back to that choice later. the Second is to "Show QR Code" this 
+
+![](/assets/Three dots wallet.jpg)
+
+
+
 hello
 
