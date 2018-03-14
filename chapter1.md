@@ -6,7 +6,7 @@ Ethereum is both an open-source blockchain and an operating system featuring sma
 
 #### **MetaMask**
 
-Metamask is a Google plugin that allows us to view decentralized apps right on our Chrome browser without having to run the full Ethereum node. Additionally, it provides a wallet to hold your cryptocurrency. If you don’t already have Google’s Chrome browser download it here:
+Metamask is a Google plugin that allows us to view decentralized apps right on our Chrome browser without having to run the full Ethereum node. Basically, it's an Ethereum browser. Additionally, it provides a wallet to hold your cryptocurrency. If you don’t already have Google’s Chrome browser download it here:
 
 \[[https://www.google.com/chrome\](https://www.google.com/chrome\)\]
 
@@ -51,10 +51,6 @@ Let’s explore MetaMask. If you click on the Account icon you’ll see this dro
 Let's change the name of our account. I'll call mine "My Account" but feel free to name your account anything you wish. Once you have renamed your account. Click "Save".
 
 ![](/assets/renamed account.jpg)
-
-
-
-
 
 hello
 

@@ -54,6 +54,8 @@ Let's revisit the Merkle root concept. below is a short list of transactions tha
 
 The resulting hash is an example of a Merkle root. Try to change or add even 1 thing and click the hash button again and the hash changes. No single bad actor could change the blockchain \(the Merkle root of a single block in this case\) once it's hashed. Even if several bad actors got together it would be impossible because of the 51% consensus required to write each block to the chain. Additionally, any Merkle root in the past could not be changed because all the blockchain's hashes up to the current block would have to be rehashed.
 
+Why would someone want to hash all the transactions? Because the person who finds the answer to the cryptographic algorithm is rewarded a coin or coins. \(Bitcoin currently awards 12.5 coins to a person who discovers the correct hash\) 
+
 In Ethereum, each block takes approximately 15 minutes to hash. Ethereum controls the difficulty of the algorythm based on the number of nodes currently hashing the block and the speed at which they are doing it. If you want to see the Block Rate you can go to this website.
 
 [https://etherscan.io/chart/blocktime](https://etherscan.io/chart/blocktime)
