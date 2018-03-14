@@ -56,9 +56,9 @@ Now click on the words "Main Network". Here you will see a list of the possible 
 
 ![](/assets/Network list.jpg)
 
-Now click on the 3 dots. \(See below\) The first choice is to "View account on Etherscan" we'll come back to that choice later. the Second is to "Show QR Code" clicking this will give you a QR code that is your public key. You can use this QR code to receive payments. "Copy address to clipboard" is the choice you will use most often. This choice copies your wallet's public key that you can then paste and share however you wish in order to receive Ether. You cannot lose any Ether by sharing your public key. The last choice is "Export Private Key" If you click this MetaMask will give you a warning; "Export Private Key at your own Risk". 
+Now click on the 3 dots. \(See below\) The first choice is to "View account on Etherscan" we'll come back to that choice later. the Second is to "Show QR Code" clicking this will give you a QR code that is your public key. You can use this QR code to receive payments. "Copy address to clipboard" is the choice you will use most often. This choice copies your wallet's public key that you can then paste and share however you wish in order to receive Ether. You cannot lose any Ether by sharing your public key. The last choice is "Export Private Key" If you click this MetaMask will give you a warning; "Export Private Key at your own Risk". We'll revisit the MetaMask wallet later in our class. 
 
 ![](/assets/Three dots wallet.jpg)
 
-hello
+
 
