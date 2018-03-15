@@ -4,11 +4,9 @@
 
 In 2008 Satoshi Nakamato wrote a paper entitled “Bitcoin: A Peer-to-Peer Electronic Cash System”. In this paper, Satoshi explains what would later become known as “blockchain technology”. He describes it as:
 
-A peer-to-peer electronic system for financial transactions without going through a bank
-
-The use of \(hashing\)cryptography instead of trusting a bank
-
-The creation of trust through the system without the use of centralized institutions
+* A peer-to-peer electronic system for financial transactions without going through a bank
+* The use of \(hashing\)cryptography instead of trusting a bank
+* The creation of trust through the system without the use of centralized institutions
 
 To avoid double-spending problem SatoshiNakamatodetermined that a network of timestamps could be distributed over the peer-to-peer network \(a type of ledger\) in the form of a hash-based proof-of-work which would create a record that could not be changed without redoing the proof-of-work. These hashed proof of work records are now known as blocks.
 
@@ -54,7 +52,7 @@ Let's revisit the Merkle root concept. below is a short list of transactions tha
 
 The resulting hash is an example of a Merkle root. Try to change or add even 1 thing and click the hash button again and the hash changes. No single bad actor could change the blockchain \(the Merkle root of a single block in this case\) once it's hashed. Even if several bad actors got together it would be impossible because of the 51% consensus required to write each block to the chain. Additionally, any Merkle root in the past could not be changed because all the blockchain's hashes up to the current block would have to be rehashed.
 
-Why would someone want to hash all the transactions? Because the person who finds the answer to the cryptographic algorithm is rewarded a coin or coins. \(Bitcoin currently awards 12.5 coins to a person who discovers the correct hash\) 
+Why would someone want to hash all the transactions? Because the person who finds the answer to the cryptographic algorithm is rewarded a coin or coins. \(Bitcoin currently awards 12.5 coins to a person who discovers the correct hash\)
 
 In Ethereum, each block takes approximately 15 minutes to hash. Ethereum controls the difficulty of the algorythm based on the number of nodes currently hashing the block and the speed at which they are doing it. If you want to see the Block Rate you can go to this website.
 
