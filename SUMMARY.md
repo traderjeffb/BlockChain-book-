@@ -7,7 +7,7 @@
 * [Proof of Work & Proof of Stake ](proof-of-work-and-proof-of-stake.md)
 * [Ether, Wei and gas](filling-our-wallet.md)
 * [Private and Public Keys](private-and-public-keys.md)
-* Introduction to Remix -Ethereum's online IDE 
+* Intro to Remix -Ethereum's online IDE 
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Trading Cryptocurrencies
 * Faucets and why we love them

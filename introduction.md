@@ -72,7 +72,7 @@ The resulting hash is an example of a Merkle root. Try to change or add even 1 t
 
 Why would someone want to hash all the transactions? Because the person who finds the answer to the cryptographic algorithm is rewarded a coin or coins. \(Bitcoin currently awards 12.5 coins to a person who discovers the correct hash\)
 
-In Ethereum, each block takes approximately 15 minutes to hash. Ethereum controls the difficulty of the algorythm based on the number of nodes currently hashing the block and the speed at which they are doing it. If you want to see the Block Rate you can go to this website.
+In Ethereum, each block takes approximately 15 minutes to hash. Ethereum controls the difficulty of the algorythm based on the number of nodes currently hashing the block and the speed at which they are doing it. If you want to see the Block Rate you can go to this website.  We'll discuss this website more in depth later.
 
 [https://etherscan.io/chart/blocktime](https://etherscan.io/chart/blocktime)
 
