@@ -11,9 +11,9 @@
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Trading Cryptocurrencies
 * Faucets and why we love them
-* Let's fill the Wallet
 * Transferring ETH and other cryptocurrencies
 * Intro to Smart Contracts
+* Creating our own cryptocurrency
 * Etherscan and other tools
 * Intro to Remix -Ethereum's online IDE 
 * Mining Cryptocurrency - Just say no
