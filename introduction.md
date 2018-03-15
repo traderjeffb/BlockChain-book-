@@ -8,9 +8,25 @@ In 2008 Satoshi Nakamato wrote a paper entitled “Bitcoin: A Peer-to-Peer Elect
 * The use of \(hashing\)cryptography instead of trusting a bank
 * The creation of trust through the system without the use of centralized institutions
 
-To avoid double-spending problem Satoshi Nakamato determined that a network of timestamps could be distributed over the peer-to-peer network \(a type of ledger\) in the form of a hash-based proof-of-work which would create a record that could not be changed without redoing the proof-of-work. These hashed proof of work records are now known as blocks.
+---
 
-Once the hashing was complete for a block and 51% or more of the computers on the network agreed, the block was added to the one previous block to create a blockchain and distributed to the network. A new block would then be worked hashed.If there were any changes made to any block on any computer in the peer-to-peer network, also called nodes, that change to the block would need to be rehashed and the resulting newly hashed block would have a different hash code and therefore it would not be accepted by 51% or more of the nodes and therefore rejected.  In Ethereum blockchain here are 2 things the nodes must agree on before a block can be added. The hash from the previous block\(called the block header\)  and the Merkle root.  Below is a tree that shows how each block in is not only the all transactions that have taken place in the block's time frame but also the hash of the 2 below it. Bitcoin does not use the Merkle tree system.
+#### **Words to know:**
+
+**Hashing**- generating a value from a string of text using a mathematical algorithm
+
+**peer-to-peer network**-A network** **of computers configured to allow certain files and folders to be shared with everyone
+
+**ledger**-an account book of final entry, in which business transactions are recorded.
+
+**proof of work**- requiring processing time of the computer \(to create the hash from a mathematical function in this case\)
+
+**blocks**-a record of business transactions\(ledger\) where computers have spent time finding the answer to an algorithm\(hash\)
+
+---
+
+To avoid double-spending problem Satoshi Nakamato determined that a network of timestamps could be distributed over the peer-to-peer network \(a type of ledger file\) in the form of a hash-based proof-of-work which would create a record that could not be changed without redoing the proof-of-work. These hashed proof of work records are now known as blocks.
+
+Once the hashing was complete for a block and 51% or more of the computers on the network agreed, the block was added to the one previous block to create a blockchain and distributed to the network. A new block would then be  hashed. If there were any changes made to any block on any computer in the peer-to-peer network, also called nodes, that change to the block would need to be rehashed and the resulting newly hashed block would have a different hash code and therefore it would not be accepted by 51% or more of the nodes and therefore rejected.  In Ethereum blockchain here are 2 things the nodes must agree on before a block can be added. The hash from the previous block\(called the block header\)  and the Merkle root.  Below is a tree that shows how each block in is not only the all transactions that have taken place in the block's time frame but also the hash of the 2 below it. Bitcoin does not use the Merkle tree system.
 
 ![](/assets/Merkle Tree.jpg)
 
