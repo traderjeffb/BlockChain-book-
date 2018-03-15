@@ -12,6 +12,7 @@
 * Trading Cryptocurrencies
 * Faucets and why we love them
 * Transferring ETH and other cryptocurrencies
+* Ripple, Moreno, LiteCoin and NEO
 * Intro to Smart Contracts
 * Creating our own cryptocurrency
 * Etherscan and other tools
