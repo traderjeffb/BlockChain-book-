@@ -10,7 +10,7 @@ The proof of stake concept is that those who hold a cryptocurrency are the only 
 
 # What is a denial of service attack?
 
-A malicious attack via overwhelming a server with requests therefore making it impossible for legitimate users gain access.
+A malicious attack where the disruptor sends multiple requests eventually overwhelming the server with those requests therefore making it impossible for legitimate users gain access.
 
 \*The arguments as to why Proof of Stake will or will not work for cryptocurrency is beyond this course of study. There are plenty of places to read the debates online
 
