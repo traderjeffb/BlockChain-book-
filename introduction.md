@@ -16,9 +16,11 @@ In 2008 Satoshi Nakamato wrote a paper entitled “Bitcoin: A Peer-to-Peer Elect
 
 **peer-to-peer network**-A network** **of computers configured to allow certain files and folders to be shared with everyone
 
+**node**- any single computer connected to the peer-to-peer network
+
 **ledger**-an account book of final entry, in which business transactions are recorded.
 
-**proof of work**- requiring processing time of the computer \(to create the hash from a mathematical function in this case\)
+**proof-of-work**- requiring processing time of the computer \(to create the hash from a mathematical function in this case\)
 
 **blocks**-a record of business transactions\(ledger\) where computers have spent time finding the answer to an algorithm\(hash\)
 
