@@ -13,7 +13,7 @@
 * Transferring ETH and other cryptocurrencies
 * Ripple, Moreno, LiteCoin and NEO
 * [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
-* Intro to Smart Contracts
+* [Intro to Smart Contracts](intro-to-smart-contracts.md)
 * Intro to Truffle CLI 
 * Building an EOS Dapp
 * What's an ERC-20 Token?
