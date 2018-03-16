@@ -7,14 +7,14 @@
 * [Proof of Work & Proof of Stake ](proof-of-work-and-proof-of-stake.md)
 * [Ether, Wei and gas](filling-our-wallet.md)
 * [Private and Public Keys](private-and-public-keys.md)
-* [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Trading Cryptocurrencies
 * Faucets and why we love them
 * Transferring ETH and other cryptocurrencies
 * Ripple, Moreno, LiteCoin and NEO
-* Intro to Truffle CLI 
+* [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
 * Intro to Smart Contracts
+* Intro to Truffle CLI 
 * Building an EOS Dapp
 * What's an ERC-20 Token?
 * Creating our own cryptocurrency
