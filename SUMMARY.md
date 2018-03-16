@@ -7,16 +7,18 @@
 * [Proof of Work & Proof of Stake ](proof-of-work-and-proof-of-stake.md)
 * [Ether, Wei and gas](filling-our-wallet.md)
 * [Private and Public Keys](private-and-public-keys.md)
-* Intro to Remix -Ethereum's online IDE 
+* [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Trading Cryptocurrencies
 * Faucets and why we love them
 * Transferring ETH and other cryptocurrencies
 * Ripple, Moreno, LiteCoin and NEO
+* Intro to Truffle CLI 
 * Intro to Smart Contracts
+* Building an EOS Dapp
+* What's an ERC-20 Token?
 * Creating our own cryptocurrency
 * Etherscan and other tools
-* Intro to Remix -Ethereum's online IDE 
 * Mining Cryptocurrency - Just say no
 * Geth -become a network node
 * Where to from here?
