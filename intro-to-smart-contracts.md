@@ -32,5 +32,17 @@ Write the first line using your current version \(if different than the one in t
 
 Next, let's set a define a local variable for type address owner  \(see below\) We'll pass in the address of the owner as the argument of the function. ![](/assets/address owner.jpg)
 
-Look over on the right hand side. There is a button that says "Start to compile" and a check box beside it for "Auto Compile". Either choice is fine. First check the "Auto Compile" checkbox. Then delete one of the semi-colons you'll see an error message pop up and a red "X" on the number line of the editor. If you hover your mouse over the red "X" it will also give you a pop up error message box. If you want to see these error messages as you code, leave the boxed checked. If you do, you'll find yourself closing error message boxes in the tab section often. On the other hand, there'll the occasionally you'll forget to compile your program after correcting an error and it drive you crazy. \(you have to compile the program each time you make a change.![](/assets/error messages auto compiler.jpg)
+Look over on the right hand side. There is a button that says "Start to compile" and a check box beside it for "Auto Compile". Either choice is fine. First, check the "Auto Compile" checkbox. Then delete one of the semi-colons you'll see an error message pop up and a red "X" on the number line of the editor. If you hover your mouse over the red "X" it will also give you a pop up error message box. If you want to see these error messages as you code, leave the box checked. If you do, you'll find yourself closing error message boxes in the tab section often. On the other hand, you can compile each time you make a change but there'll the occasionally you'll forget to compile your program after correcting an error and it will drive you crazy. The choice is yours. ![](/assets/error messages auto compiler.jpg)Read the error message just so you can get used to seeing what they say. Notice the red "X" doesn't appear on the line where the actual semi-colon is missing. There are things to keep in mind when trying to debug a program. Put the semi-colon back into the  program and notice the error message disappears. If the error message doesn't disappear then just click the "x"in the corner of the red box and it will close the error message. Remove the check on "auto compile".
+
+Next, we'll want to set the what environment  we want to run in. On the right hand side, in the tabs section, click the "Run" tab. Click the drop down and chose Java VM. If you were running Mist or MetaMask  you would choose Injected Web3 and if you were running testrpc you could chose "web3 provider". More regarding these last 2 choices later in the course. See below:
+
+\(Again, for now chose JavaScript VM\)
+
+![](/assets/setting run enviorment.jpg)
+
+
+
+
+
+intro....
 
