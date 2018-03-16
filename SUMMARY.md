@@ -13,6 +13,7 @@
 * Faucets and why we love them
 * Let's fill the Wallet
 * Transferring ETH and other cryptocurrencies
+* Ripple, Moreno, LiteCoin and NEO
 * Intro to Smart Contracts
 * Etherscan and other tools
 * Intro to Remix -Ethereum's online IDE 
