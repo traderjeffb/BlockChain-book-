@@ -28,8 +28,6 @@ Write the first line using your current version \(if different than the one in t
 
 ![](/assets/pragma solidity2.jpg)
 
-
-
 Now we must name our contract in our code. Note, everything for this contract must be written between these two curly braces. If you enter the first curly brace at the end of the line and hit enter, Remix will add the bottom one for you.
 
 ![](/assets/naming contract2.jpg)
@@ -46,9 +44,31 @@ Next, we'll want to set the what environment  we want to run in. On the right ha
 
 ![](/assets/setting run enviorment.jpg)
 
+Below the Environment setting is the "Account" drop down and the "Gas limit". Remix gives you 5 pretend accounts with 100 Ether in each account for you to practice smart contracts. Just leave the it set on the account that it is currently on. The Gas limit default is good for this type of contract. Ethereum will only use up to the amount of Gas set in the Gas limit and no more. In some instances this may result in a loss of gas without your contract being executed.  For more information on Gas read the section titled "Ether, Wei and gas". The "Value" field is used if sending some ether with this contract. We aren't sending any ether so we'll leave it set to 0.  Note below that there's the name of our contract. If we were working on more than one contract we could use the drop down list to access the different contracts. Below that we you can see we are ready to create our first contract!![](/assets/account and Gas limit.jpg)
 
 
-Below the Environment setting is the "Account" drop down and the "Gas limit". Remix gives you 5 pretend accounts with 100 Ether in each account for you to practice smart contracts. Just leave the it set on the account that it is currently on. The Gas limit default is good for this type of contract. Ethereum will only use up to the amount of Gas set in the Gas limit and no more. In some instances this may result in a loss of gas without your contract being executed.  For more information on Gas read the section titled "Ether, Wei and gas". The "Value" field is used if sending some ether with this contract. We aren't sending any ether so we'll leave it set to 0.![](/assets/setting account gas limit.jpg)
+
+Let's do something for fun really quick. Let's add another contract. Below "MyFirstContract" let's write a second contract. and call it "MySecondContract". \(see below\)
+
+![](/assets/MySecondContract.jpg)
+
+Now look at the drop down on the right hand side. You can see that both contracts are listed. We can set the drop down to any contract on the list that we wish to interact with. Leave the setting on "MyFirstContract" and delete the lines that were just added for "MySecondContract"
+
+![](/assets/MySecondContract drop down.jpg)
+
+Now click the "Create" button \(see below\)
+
+![](/assets/click create.jpg)
+
+
+
+When we clicked create we created an instance of our contract. It pops up. \(see below\)
+
+![](/assets/instance of contract.jpg)
+
+
+
+
 
 intro....
 
