@@ -62,9 +62,17 @@ When we clicked create we created an instance of our contract. It pops up. \(see
 
 ![](/assets/instance of contract.jpg)
 
+Also, notice what happened in the terminal when we created our contract. It tells us "Creation is pending" and immediately below that is shows that our contract was created. The terminal window will give you feedback when writing contracts. Learn to use it. ![](/assets/terminal.jpg)
+
+Let's do something with our contract to get see some results. Let's add a function to get the owner's address. Notice we also removed the "address \_owner" that we passed in to the function above our new function. \(see below\) ![](/assets/get Onwer address.jpg)Notice on line 10 above there's a warning sign. Remix is telling us that we didn't specify the visibility and that the default is public. This is fine for this contract. Click on the "create" button  on the right side of the screen. \(see below\) you'll notice you have a new instance of our contract. Our new contract has a "getOwner" button. Delete the old instance above it- we no longer need this one. 
+
+![](/assets/get owner delete old contract.jpg)
 
 
-Also, notice what happened in the terminal when we created our contract. It tells us "Creation is pending" and immediately below that is shows that our contract was created. The terminal window will give you feedback when writing contracts. Learn to use it. ![](/assets/terminal.jpg)Let's do something with our contract to get see some results. Let's add a Ge
 
-intro....
+Click the "getOwner" button and you will see your contract works! The getOwner function returns the owners address. \(see below\) Note, on the "Account" line Remix gives you the first few characters and the last few characters. The getOwner button returns the same address but shows the full address. 
+
+![](/assets/Get Owner worked.jpg)
+
+We will get deeper into writing smart contracts in the next section. 
 
