@@ -46,13 +46,11 @@ Next, we'll want to set the what environment  we want to run in. On the right ha
 
 Below the Environment setting is the "Account" drop down and the "Gas limit". Remix gives you 5 pretend accounts with 100 Ether in each account for you to practice smart contracts. Just leave the it set on the account that it is currently on. The Gas limit default is good for this type of contract. Ethereum will only use up to the amount of Gas set in the Gas limit and no more. In some instances this may result in a loss of gas without your contract being executed.  For more information on Gas read the section titled "Ether, Wei and gas". The "Value" field is used if sending some ether with this contract. We aren't sending any ether so we'll leave it set to 0.  Note below that there's the name of our contract. If we were working on more than one contract we could use the drop down list to access the different contracts. Below that we you can see we are ready to create our first contract!![](/assets/account and Gas limit.jpg)
 
-
-
 Let's do something for fun really quick. Let's add another contract. Below "MyFirstContract" let's write a second contract. and call it "MySecondContract". \(see below\)
 
 ![](/assets/MySecondContract.jpg)
 
-Now look at the drop down on the right hand side. You can see that both contracts are listed. We can set the drop down to any contract on the list that we wish to interact with. Leave the setting on "MyFirstContract" and delete the lines that were just added for "MySecondContract"
+Now look at the drop down on the right hand side. You can see that both contracts are listed. We can set the drop down to any contract on the list that we wish to interact with. Leave the setting on "MyFirstContract" and delete the lines that were just added for "MySecondContract". We won't be needing it.
 
 ![](/assets/MySecondContract drop down.jpg)
 
@@ -60,15 +58,13 @@ Now click the "Create" button \(see below\)
 
 ![](/assets/click create.jpg)
 
-
-
-When we clicked create we created an instance of our contract. It pops up. \(see below\)
+When we clicked create we created an instance of our contract. It pops up. \(see below\) We can also see a few characters of the contract's address "0x692...77b3a". To the right of that number we can see a clipboard icon. Often we will want to copy a contract's address- use that button to copy the address to the clipboard. Writing an address by hand would be slow and difficult.
 
 ![](/assets/instance of contract.jpg)
 
 
 
-
+Also, notice what happened in the terminal when we created our contract. It tells us "Creation is pending" and immediately below that is shows that our contract was created. The terminal window will give you feedback when writing contracts. Learn to use it. ![](/assets/terminal.jpg)Let's do something with our contract to get see some results. Let's add a Ge
 
 intro....
 
