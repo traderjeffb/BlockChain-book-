@@ -8,6 +8,8 @@ Both Bitcoin and Ethereum use a proof of work protocol  however, Ethereum has an
 
 The proof of stake concept is that those who hold a cryptocurrency are the only ones who can mine that currency's proof of work blocks. The benefits are 2 fold. For example, if you owned 2% of Ethereum you would then be allowed to mine 2% of the proof of work blocks. The benefits are 2 fold. First it would lower the probability of an denial of service attack due to the sheer cost of owning enough of any given cryptocurrency to create an effective attack. Secondly, the person creating the attack is harmed in the process because of their ownership.
 
+![](/assets/DOS.jpeg)
+
 # What is a denial of service attack?
 
 A malicious attack where the disruptor sends multiple requests eventually overwhelming the server with those requests therefore making it impossible for legitimate users gain access.
