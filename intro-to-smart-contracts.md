@@ -64,15 +64,39 @@ When we clicked create we created an instance of our contract. It pops up. \(see
 
 Also, notice what happened in the terminal when we created our contract. It tells us "Creation is pending" and immediately below that is shows that our contract was created. The terminal window will give you feedback when writing contracts. Learn to use it. ![](/assets/terminal.jpg)
 
-Let's do something with our contract to get see some results. Let's add a function to get the owner's address. Notice we also removed the "address \_owner" that we passed in to the function above our new function. \(see below\) ![](/assets/get Onwer address.jpg)Notice on line 10 above there's a warning sign. Remix is telling us that we didn't specify the visibility and that the default is public. This is fine for this contract. Click on the "create" button  on the right side of the screen. \(see below\) you'll notice you have a new instance of our contract. Our new contract has a "getOwner" button. Delete the old instance above it- we no longer need this one. 
+Let's do something with our contract to get see some results. Let's add a function to get the owner's address. Notice we also removed the "address \_owner" that we passed in to the function above our new function. Our new function is known as a getter function \(see below\) ![](/assets/get Onwer address.jpg)Notice on line 10 above there's a warning sign. Remix is telling us that we didn't specify the visibility and that the default is public. This is fine for this contract. Click on the "create" button  on the right side of the screen. \(see below\) you'll notice you have a new instance of our contract. Our new contract has a "getOwner" button. Delete the old instance above it- we no longer need this one.
 
 ![](/assets/get owner delete old contract.jpg)
 
-
-
-Click the "getOwner" button and you will see your contract works! The getOwner function returns the owners address. \(see below\) Note, on the "Account" line Remix gives you the first few characters and the last few characters. The getOwner button returns the same address but shows the full address. 
+Click the "getOwner" button and you will see your contract works! The getOwner function returns the owners address. \(see below\) Note, on the "Account" line Remix gives you the first few characters and the last few characters. The getOwner button returns the same address but shows the full address.
 
 ![](/assets/Get Owner worked.jpg)
 
-We will get deeper into writing smart contracts in the next section. 
+
+
+Let's write a setter function and add it to our contract. See below. Once you have written the setter function. Click "create" on the right hand side to create a new instance of our new smart contract. ![](/assets/setter function2.jpg)
+
+Delete the old instance of our contract and notice we've got two buttons now for our smart contract. We can get the owner's address and set it. Let's try our new smart con![](/assets/setter getter buttons2.jpg)
+
+
+
+First let's go up and click the drop down on the right side of  our Account address. Choose a different account from the drop down list  and then click the "copy to clipboard" button. \(see below\) 
+
+![](/assets/different account.jpg)
+
+
+
+Next, click in the "setOwner field and paste \(Ctr + V\) the account address in this field. \(See below\) Then Click the "setOwner" button.
+
+![](/assets/set account number.jpg)
+
+Notice at the bottom of the terminal we can see our smart contract has completed setting the owner to the new address. The address will match the number inside the setOwner button window. ![](/assets/terminal shows setOwner.jpg)
+
+Now click the blue "getOwner" button  and it will provide the account number you just set. \(see below\) You'll notice the getOwner returns the address from the account we chose from the drop down from above\(copy and pasted\) 
+
+![](/assets/getter function worked.jpg)
+
+You have just learned 2 of the basic processes of writing smart contracts- The getter and setter functions. 
+
+We will get deeper into writing smart contracts in the next section.
 
