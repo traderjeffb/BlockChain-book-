@@ -7,9 +7,8 @@
 * [Proof of Work & Proof of Stake ](proof-of-work-and-proof-of-stake.md)
 * [Ether, Wei and gas](filling-our-wallet.md)
 * [Private and Public Keys](private-and-public-keys.md)
-* [Let's fill the Wallet](lets-fill-the-wallet.md)
 * [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
-* [Intro to Smart Contracts](intro-to-smart-contracts.md)
+* [Intro to Solidity Smart Contracts](intro-to-smart-contracts.md)
 * [Setting up the environment](intro-to-truffle-cli.md)
 * [Solidity -Value types](solidity-value-types.md)
 * [Solidity -Reference Tpes](solidity-reference-tpes.md)
@@ -20,6 +19,7 @@
 * [Solidity -Inheritance ](solidity-inheritance.md)
 * Building an EOS Dapp
 * What's an ERC-20 Token?
+* [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Creating our own cryptocurrency
 * [Trading Cryptocurrencies](trading-cryptocurrencies.md)
 * Etherscan and other tools
