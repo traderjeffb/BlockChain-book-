@@ -38,13 +38,13 @@ What is testrpc?
 >
 > [source: https://www.npmjs.com/package/ethereumjs-testrpc](https://www.npmjs.com/package/ethereumjs-testrpc)
 
-
-
 Let's go to the testrpc website to find the command. Follow the link below
 
 [https://www.npmjs.com/package/ethereumjs-testrpc](https://www.npmjs.com/package/ethereumjs-testrpc)![](/assets/testrpc.jpg)
 
 Scroll down to find the command we need. You should find this:
 
-![](/assets/testrpc install.jpg)
+![](/assets/testrpc install.jpg)Copy the command above to the command line prompt and hit enter. This will cause testrpc to install
+
+
 
