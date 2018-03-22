@@ -44,7 +44,19 @@ Let's go to the testrpc website to find the command. Follow the link below
 
 Scroll down to find the command we need. You should find this:
 
-![](/assets/testrpc install.jpg)Copy the command above to the command line prompt and hit enter. This will cause testrpc to install
+![](/assets/testrpc install.jpg)Type the line above into the command line and hit enter. 
 
+![](/assets/install testrpc.jpg)
 
+Now let's test to see if everything is on our machine properly. On the command line type "testrpc" and hit enter. You should get a window like the one below. Notice that testrpc gives you 10 account pre-loaded with fake either and 10 corresponding private keys. Below that testrpc tells you the local host is 8545. ![](/assets/testrpc accounts.jpg)
+
+Now let's check to see if Truffle is properly installed. First lets' create a new directory. 
+
+* Type "mkdir proj1" in the command window.
+* Now let's enter that directory by typing "cd proj1"
+* By entering "dir" and pressing enter we can see that there are 0 File\(s\)
+* Now let's initialize Truffle by typing "truffle init" and hit enter
+* Finally let's see that Truffle set up some files by typing "dir" and hitting enter
+
+\(follow along with all these instructions below\)![](/assets/testing truffle.jpg)We can see above that Truffle set up the contracts, migrations and test directories and added a couple of files. Everything appears to be working correctly. Now we are ready to write smart contracts using Truffle and testrpc! 
 
