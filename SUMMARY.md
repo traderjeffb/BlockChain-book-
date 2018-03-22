@@ -10,7 +10,14 @@
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
 * [Intro to Smart Contracts](intro-to-smart-contracts.md)
-* [Intro to Truffle CLI ](intro-to-truffle-cli.md)
+* [Setting up the environment](intro-to-truffle-cli.md)
+* [Solidity -Value types](solidity-value-types.md)
+* [Solidity -Reference Tpes](solidity-reference-tpes.md)
+* [Solidity -Visibility of Functions](solidity-visibility-of-functions.md)
+* [Solidity -Functions view](solidity-functions-view.md)
+* [Solidity -Pure Functions](solidity-pure-functions.md)
+* [Solidity -Event Functions](solidity-event-functions.md)
+* [Solidity -Inheritance ](solidity-inheritance.md)
 * Building an EOS Dapp
 * What's an ERC-20 Token?
 * Creating our own cryptocurrency
@@ -22,6 +29,4 @@
 * Mining Cryptocurrency - Just say no
 * Geth -become a network node
 * Where to from here?
-
-
 
