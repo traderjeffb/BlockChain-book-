@@ -24,15 +24,11 @@ We want to install Truffle. What is Truffle?
 >
 > developer easier. With **Truffle **, you get: Built-in smart contract compilation, linking, deployment and binary management.
 
-
-
 Let's go to Truffle's website to see what the command is -follow the link below
 
 [https://www.npmjs.com/package/truffle](https://www.npmjs.com/package/truffle)![](/assets/truffle.jpg)
 
 If you scroll down you'll see the command we need:
 
-\(don't type the "$" sign\) type this command and hit enter.![](/assets/truffle install.jpg)
-
-You should see some flashing as truffle installs![](/assets/install truffle.jpg)
+\(don't type the "$" sign\) type this command and hit enter.![](/assets/truffle install.jpg)You should see some flashing as truffle installs![](/assets/install truffle.jpg)
 
