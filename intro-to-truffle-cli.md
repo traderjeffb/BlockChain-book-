@@ -24,8 +24,6 @@ We want to install Truffle. What is Truffle?
 >
 > developer easier. With **Truffle **, you get: Built-in smart contract compilation, linking, deployment and binary management.
 
-
-
 Let's go to Truffle's website to see what the command is -follow the link below
 
 [https://www.npmjs.com/package/truffle](https://www.npmjs.com/package/truffle)![](/assets/truffle.jpg)
@@ -35,4 +33,20 @@ If you scroll down you'll see the command we need:
 \(don't type the "$" sign\) type this command and hit enter.![](/assets/truffle install.jpg)
 
 You should see some flashing as truffle installs![](/assets/install truffle.jpg)
+
+What is testrpc?
+
+> [**testrpc **is a Node.js based Ethereum client for testing and development. It uses ethereumjs to simulate full client behavior and make developing Ethereum applications much faster.](https://www.npmjs.com/package/ethereumjs-testrpc)
+>
+> [source: https://www.npmjs.com/package/ethereumjs-testrpc](https://www.npmjs.com/package/ethereumjs-testrpc)
+
+
+
+Let's go to the testrpc website to find the command. Follow the link below
+
+[https://www.npmjs.com/package/ethereumjs-testrpc](https://www.npmjs.com/package/ethereumjs-testrpc)![](/assets/testrpc.jpg)
+
+Scroll down to find the command we need. You should find this:
+
+![](/assets/testrpc install.jpg)
 
