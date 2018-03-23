@@ -2,9 +2,7 @@
 
 Please use these links to follow along as the instructor teaches
 
-
-
-Link \#1 
+Link \#1
 
 [https://anders.com/blockchain/hash.html](https://anders.com/blockchain/hash.html)
 
@@ -15,12 +13,6 @@ Link \#2
 [https://anders.com/blockchain/public-private-keys/transaction.html](https://anders.com/blockchain/public-private-keys/transaction.html)
 
 ---
-
-
-
-
-
-
 
 
 
