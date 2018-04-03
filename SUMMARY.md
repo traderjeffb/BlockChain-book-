@@ -11,6 +11,7 @@
 * [Intro to Remix -Ethereum's online IDE ](intro-to-remix-ethereums-online-ide.md)
 * [Intro to Solidity Smart Contracts](intro-to-smart-contracts.md)
 * [Instructor lessons on Blockchain, Public and Private keys](instructor-lessons-on-blockchain-public-and-private-keys.md)
+* [Understanding EMV memory](understanding-emv-memory.md)
 * [Solidity -Value types](solidity-value-types.md)
 * [Solidity -Reference Tpes](solidity-reference-tpes.md)
 * [Solidity -Visibility of Functions](solidity-visibility-of-functions.md)
