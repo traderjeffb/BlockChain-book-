@@ -19,7 +19,7 @@
 * [Solidity -Pure Functions](solidity-pure-functions.md)
 * [Solidity -Event Functions](solidity-event-functions.md)
 * [Solidity -Inheritance ](solidity-inheritance.md)
-* Building an EOS Dapp
+* [Building an EOS Dapp](building-an-eos-dapp.md)
 * What's an ERC-20 Token?
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
 * Creating our own cryptocurrency
