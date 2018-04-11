@@ -12,7 +12,7 @@ It's important that you understand EVM memory. There are 3 levels of memory in t
 
 **Memory **is used to store anything you wish to use within the contract run time. An example might be the results of a computation that you will need to use later in the contract but not after the contract completes running. This memory will only be stored as long as the contract is running.
 
-**Stack **is the memory  used to run your program in the EMV environment. Think of this as RAM or cache memory of your computer.
+**Stack **is the memory  used to run your program in the EMV environment. Think of this as cache memory of your computer. **calldata **is in the stack memory.** Calldata** stores the parameters of functions and is not modifiable nor does it persist. 
 
 ---
 
