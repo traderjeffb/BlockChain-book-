@@ -15,20 +15,20 @@
 * [Solidity -Value types](solidity-value-types.md)
 * [Solidity -Reference Tpes](solidity-reference-tpes.md)
 * [Solidity -Visibility of Functions](solidity-visibility-of-functions.md)
-* [Solidity -Functions view](solidity-functions-view.md)
+* [Solidity -View Functions ](solidity-functions-view.md)
 * [Solidity -Pure Functions](solidity-pure-functions.md)
 * [Solidity -Event Functions](solidity-event-functions.md)
 * [Solidity -Inheritance ](solidity-inheritance.md)
 * [Building an EOS Dapp](building-an-eos-dapp.md)
 * What's an ERC-20 Token?
 * [Let's fill the Wallet](lets-fill-the-wallet.md)
-* Creating our own cryptocurrency
+* [Creating our own cryptocurrency](creating-our-own-cryptocurrency.md)
 * [Trading Cryptocurrencies](trading-cryptocurrencies.md)
-* Etherscan and other tools
+* [Etherscan and other tools](etherscan-and-other-tools.md)
 * Ripple, Moreno, LiteCoin and NEO
-* Transferring ETH and other cryptocurrencies
+* [Transferring ETH and other cryptocurrencies](transferring-eth-and-other-cryptocurrencies.md)
 * [Faucets and why we love them](faucets-and-why-we-love-them.md)
-* Mining Cryptocurrency - Just say no
+* [Mining Cryptocurrency - Just say no](mining-cryptocurrency-just-say-no.md)
 * Geth -become a network node
 * Where to from here?
 
