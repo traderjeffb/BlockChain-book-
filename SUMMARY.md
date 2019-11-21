@@ -29,6 +29,6 @@
 * [Transferring ETH and other cryptocurrencies](transferring-eth-and-other-cryptocurrencies.md)
 * [Faucets and why we love them](faucets-and-why-we-love-them.md)
 * [Mining Cryptocurrency - Just say no](mining-cryptocurrency-just-say-no.md)
-* Geth -become a network node
-* Where to from here?
+* [Geth -become a network node](geth-become-a-network-node.md)
+* [Where to from here?](where-to-from-here.md)
 
